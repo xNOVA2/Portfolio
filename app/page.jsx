@@ -19,7 +19,7 @@ import docker from '../public/docker.jpg';
 import git from '../public/git.jpg';
 import github from '../public/github.jpg';
 import Store from '../public/E-Commerce.jpg';
-import resturant from '../public/resturant2.jpg';
+import resturant from '../public/Resturant2.jpg';
 import blog from '../public/blog2.jpg';
 import Link from 'next/link';
 export default function Home() {
